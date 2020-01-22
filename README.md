@@ -1,7 +1,7 @@
 # Seoul Palace
 - context api를 사용해보기 위한 react 웹 어플리케이션
 ---
-## [방문해서 확인하기] (https://running-timer-41598.firebaseapp.com/)
+## [방문해서 확인하기] (https://palace-5e90c.firebaseapp.com/)
 ---
 ### [활용된 기술]
 - React(context api)
